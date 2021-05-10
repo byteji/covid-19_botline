@@ -1,0 +1,13 @@
+{
+  "emulators": {
+    "functions": {
+      "port": null
+    },
+    "firestore": {
+      "port": null
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
